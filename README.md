@@ -1,4 +1,6 @@
-<div align="center" style="font-family:'SF Mono',Consolas,'JetBrains Mono',monospace;font-size:54px;font-weight:700;line-height:1.2;background:linear-gradient(90deg,#22d3ee,#4ade80);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:#22d3ee;letter-spacing:4px;">3g0r1ch</div>
+<div align="center">
+  <img src="assets/logo.svg" alt="3g0r1ch" width="640" />
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3200&pause=700&color=22D3EE&center=true&vCenter=true&width=680&lines=Engineer+%C2%B7+Rust+%26+TypeScript;Networks+%C2%B7+AI+gateways+%C2%B7+operating+systems;Deep+dives+%C2%B7+homelab+%26+systems" alt="typing animation"/>
