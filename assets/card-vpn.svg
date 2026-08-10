@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="176" viewBox="0 0 460 176" role="img" aria-label="vpn-configs-for-russia">
+  <defs>
+    <linearGradient id="bar-vpn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4ade80"><animate attributeName="stop-color" values="#4ade80;#84cc16;#4ade80" dur="7s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#84cc16"><animate attributeName="stop-color" values="#84cc16;#4ade80;#84cc16" dur="7s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <linearGradient id="acc-vpn" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4ade80"/>
+      <stop offset="100%" stop-color="#84cc16"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="460" height="176" rx="16" fill="#000000" stroke="#21262d" stroke-width="1"/>
+  <rect x="18" y="18" width="424" height="4" rx="2" fill="url(#bar-vpn)"/>
+  <circle cx="28" cy="56" r="4" fill="#4ade80"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></circle>
+  <text x="42" y="62" font-family="Menlo,Consolas,'JetBrains Mono',monospace" font-size="22" font-weight="700" fill="#e6edf3">vpn-configs-for-russia</text>
+  <rect x="380" y="44" width="62" height="24" rx="12" fill="#101418"/>
+  <text x="411" y="61" text-anchor="middle" font-family="Menlo,Consolas,monospace" font-size="13" fill="#4ade80">VPN</text>
+  <text x="28" y="100" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" fill="#8b949e">Free, checked VPN configs that work in Russia</text>
+  <text x="28" y="120" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" fill="#8b949e">+ whitelist bypass. Бесплатные проверенные</text>
+  <text x="28" y="140" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" fill="#8b949e">конфигурации, работающие в РФ.</text>
+  <text x="28" y="164" font-family="Menlo,Consolas,monospace" font-size="12" fill="#484f58">github.com/Egorich-print/vpn-configs-for-russia</text>
+</svg>
