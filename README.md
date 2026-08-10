@@ -1,24 +1,7 @@
+<div align="center" style="font-family:'SF Mono',Consolas,'JetBrains Mono',monospace;font-size:54px;font-weight:700;line-height:1.2;background:linear-gradient(90deg,#22d3ee,#4ade80);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:#22d3ee;letter-spacing:4px;">3g0r1ch</div>
+
 <div align="center">
-  <svg viewBox="0 0 820 136" width="100%" style="max-width:820px" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="3g0r1ch">
-    <defs>
-      <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-        <stop offset="0%" stop-color="#22d3ee">
-          <animate attributeName="stop-color" values="#22d3ee;#4ade80;#22d3ee" dur="7s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#4ade80">
-          <animate attributeName="stop-color" values="#4ade80;#22d3ee;#4ade80" dur="7s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-    </defs>
-    <text x="50%" y="82" text-anchor="middle" font-family="'SF Mono','JetBrains Mono',Consolas,monospace" font-size="66" font-weight="700" fill="url(#titleGrad)" letter-spacing="4">3g0r1ch</text>
-    <text x="50%" y="116" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="19" fill="#8b949e" letter-spacing="1">
-      Engineer · Rust &amp; TypeScript · networks · AI gateways · operating systems
-      <tspan fill="#22d3ee">
-        <animate attributeName="opacity" values="1;0;1" dur="1.1s" repeatCount="indefinite"/>
-        ▍
-      </tspan>
-    </text>
-  </svg>
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&duration=3200&pause=700&color=22D3EE&center=true&vCenter=true&width=680&lines=Engineer+%C2%B7+Rust+%26+TypeScript;Networks+%C2%B7+AI+gateways+%C2%B7+operating+systems;Deep+dives+%C2%B7+homelab+%26+systems" alt="typing animation"/>
 </div>
 
 <br/>
