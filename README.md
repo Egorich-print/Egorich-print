@@ -38,14 +38,20 @@
     <td><a href="https://github.com/Egorich-print/BalanSir"><img src="assets/card-balansir.svg" width="460" alt="BalanSir"/></a></td>
     <td><a href="https://github.com/Egorich-print/vivanta"><img src="assets/card-vivanta.svg" width="460" alt="vivanta"/></a></td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/Egorich-print/OmniRoute-Rust"><img src="assets/card-omniroute.svg" width="460" alt="OmniRoute-Rust"/></a></td>
-    <td><a href="https://github.com/Egorich-print/vpn-configs-for-russia"><img src="assets/card-vpn.svg" width="460" alt="vpn-configs-for-russia"/></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/Egorich-print/lemontron-ru"><img src="assets/card-lemontron.svg" width="460" alt="lemontron-ru"/></a></td>
-  </tr>
 </table>
+
+<p align="center"><b>flagship:</b> <a href="https://github.com/Egorich-print/heterion-router">heterion-router</a> — AI routing gateway with zero-quota pruning and dynamic priority ladder.</p>
+
+<p align="center">
+  <a href="https://github.com/Egorich-print/kr1878">kr1878</a> ·
+  <a href="https://github.com/Egorich-print/MoreData">MoreData</a> ·
+  <a href="https://github.com/Egorich-print/budsbar">budsbar</a> ·
+  <a href="https://github.com/Egorich-print/miui-adb-unlock">miui-adb-unlock</a> ·
+  <a href="https://github.com/Egorich-print/netac-nv7000-recovery">netac-nv7000-recovery</a> ·
+  <a href="https://github.com/Egorich-print/pereprava">pereprava</a> ·
+  <a href="https://github.com/Egorich-print/thinkpad-600x-buildroot">thinkpad-600x-buildroot</a> ·
+  <a href="https://github.com/Egorich-print/whyred-pve-uefi">whyred-pve-uefi</a>
+</p>
 
 ---
 
@@ -54,7 +60,24 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/Egorich-print?style=for-the-badge&color=22d3ee&labelColor=000&logo=github&logoColor=fff"/>
   <img src="https://img.shields.io/github/stars/Egorich-print?style=for-the-badge&color=4ade80&labelColor=000&logo=star&logoColor=fff"/>
-  <img src="https://img.shields.io/badge/public%20repos-5-000000?style=for-the-badge&labelColor=000&color=a78bfa&logo=github&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/public%20repos-21-000000?style=for-the-badge&labelColor=000&color=a78bfa&logo=github&logoColor=fff"/>
+</p>
+
+---
+
+## ☕ Jokes / Приколюхи
+
+<p align="center">
+  <b>EN:</b><br/>
+  ☕ Rust turns coffee into compilers, then asks if you want the crumbs.<br/>
+  🏠 Homelab: the only place where the internet is mine — and it still goes down sometimes.<br/>
+  🔁 A fork is a fork until it outlives the original. Ask OmniRoute-Rust.<br/>
+  🔒 Private repos: the ones I'm not proud of but can't delete yet.<br/><br/>
+  <b>RU:</b><br/>
+  ☕ Rust превращает кофе в компиляторы и спрашивает, не хотите ли крошек.<br/>
+  🏠 Homelab: единственное место, где интернет принадлежит мне — и он всё равно иногда падает.<br/>
+  🔁 Форк — форк, пока он не переживает оригинал. Спросите OmniRoute-Rust.<br/>
+  🔒 Private repos: те, которыми я не горжусь, но ещё не могу удалить.
 </p>
 
 ---
@@ -74,7 +97,7 @@
 ## 🇷🇺 Обо мне (Русский)
 
 <p align="left">
-Привет! Я <b>3g0r1ch</b>. Мне интересны глубокие темы: собственный движок сетевой политики <b>BalanSir</b> (Rust), экспериментальная ОС <b>vivanta</b> для ARM, AI-шлюз <b>OmniRoute</b>, VPN-конфиги для РФ и перевод документации <b>Lemontron</b>. Код — преимущественно на Rust и TypeScript. Часть инфраструктуры живёт в собственном homelab.
+Привет! Я <b>3g0r1ch</b>. Мне интересны глубокие темы: AI-шлюз <b>heterion-router</b>, сетевая политика <b>BalanSir</b>, экспериментальная ОС <b>vivanta</b>, прошивки и recovery. Код — преимущественно на Rust и TypeScript. Часть инфраструктуры живёт в собственном homelab.
 </p>
 
 <p align="left">
